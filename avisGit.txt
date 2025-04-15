@@ -1,0 +1,1 @@
+Git est un système de contrôle de version distribué permettant de suivre les modifications des fichiers.
