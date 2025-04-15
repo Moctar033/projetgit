@@ -1,0 +1,1 @@
+GitHub est une plateforme de collaboration basée sur Git, utile pour le travail en équipe.
